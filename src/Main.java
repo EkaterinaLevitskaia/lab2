@@ -4,7 +4,7 @@ import java.util.List;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+
         if(args.length != 2){
             System.out.println("error in arguments");
             return;
